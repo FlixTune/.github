@@ -3,7 +3,7 @@
 The bot boasts of its awesome commands and embeds appearance, everything is clear and made for the best user experience and also is very easy to use and guarantees you **99% uptime and no lags**!
 
 ## Invite FlixTune Bot to Your Server
-- To invite FlixTune Bot to your Discord server and start grooving to your favorite tunes, [click here](https//invite.flixtunes.xyz).
+- To invite FlixTune Bot to your Discord server and start grooving to your favorite tunes, [click here](https//invite.flixtune.xyz).
 
 ## Need Help?
 - If you have any questions, issues, or just want to chat with fellow music lovers, join our [Support Server](https://support.flixtune.xyz). 
